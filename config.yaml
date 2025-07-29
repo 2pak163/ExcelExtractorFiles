@@ -1,0 +1,14 @@
+input_sheet: "Hoja1"
+
+output_sheet: "Consolidado"
+
+table_name: "TablaConsolidada"
+
+columns:
+  - Mes_facturado
+  - E_Activa
+  - E_hora_punta
+  - E_fuera_punta
+  - Energia_Inductiva
+  - Potencia_HP
+  - Potencia_FP
