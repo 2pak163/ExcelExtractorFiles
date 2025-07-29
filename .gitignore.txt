@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+venv/
+.env/
+
+# Excel y otros binarios
+*.xlsx
+*.xls
+
+# Paquetes de pyinstaller / build
+build/
+dist/
+*.spec
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
