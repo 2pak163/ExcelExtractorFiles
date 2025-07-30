@@ -1,11 +1,12 @@
-input_sheet: "Hoja1"
+input_sheet: "Factura"
 
-output_sheet: "Consolidado"
+output_sheet: "Facturas"
 
-table_name: "TablaConsolidada"
+table_name: "TablaFacturas"
 
 columns:
   - Mes_facturado
+  - Suministro
   - E_Activa
   - E_hora_punta
   - E_fuera_punta
